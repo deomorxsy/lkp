@@ -1,0 +1,3 @@
+[submodule "assets/busybox"]
+	path = assets/busybox
+	url = https://github.com/mirror/busybox

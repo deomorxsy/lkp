@@ -1,0 +1,8 @@
+```
+
+https://youtu.be/3yP3QOT-h98?si=puZFXdNj5EB8606H&t=1742
+
+lkp arch/mips/qr.sh
+
+29:02
+```
